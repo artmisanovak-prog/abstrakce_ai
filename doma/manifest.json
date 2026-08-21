@@ -4,17 +4,15 @@
   "phenomena": [
     {
       "system": "MOUSE",
-      "id": "SPIDER",
       "name": "pavouk",
       "illustration": {
         "system": "MOUSE",
-        "id": "SPIDER",
         "ref": "doma/ilustrace/pavouk.jpg",
         "gap": ""
       },
       "narrative": {
         "system": "MOUSE",
-        "id": "SPIDER",
+        "name": "pavouk"
         "ref": "doma/narativ/pavouk.txt",
         "gap": ""
       },
@@ -22,7 +20,6 @@
     },
     {
       "system": "MOUSE",
-      "id": "CAT",
       "name": "kocour",
       "illustration": {"system": "MOUSE", "id": "CAT", "ref": "doma/ilustrace/kocour.jpg", "gap": ""},
       "narrative": {"system": "MOUSE", "id": "CAT", "ref": "doma/narativ/kocour.txt", "gap": ""},
