@@ -3,6 +3,10 @@
 
 ---
 
+- [python](doma/python/test01.json)
+
+---
+
 - [mys](doma/referent_mouse.json)
 
 ---
@@ -65,3 +69,9 @@
 
 ### narativ
 [kriva pohadka](doma/narrative/README.md)
+
+---
+
+- [arc02](doma/arc/)
+
+---
