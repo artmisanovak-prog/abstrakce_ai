@@ -70,6 +70,15 @@
 ### narativ
 [kriva pohadka](doma/narrative/README.md)
 
+- [KOCOUR](doma/narratives/kocour.txt)
+- [RYBA](doma/ilustrace/ryba.txt)
+- [ZAJÍC](doma/ilustrace/zajic.txt)
+- [PAVOUK](doma/ilustrace/pavouk.txt)
+- [ŽRALOK](doma/ilustrace/zralok.txt)
+- [PÁV](doma/ilustrace/pav.txt)
+- [KROKODÝL](doma/ilustrace/krokodyl.txt)
+- [MOTÝL](doma/ilustrace/motyl.txt)
+  
 ---
 
 - [arc02](doma/arc/)
