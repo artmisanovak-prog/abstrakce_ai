@@ -3,15 +3,22 @@
 
 ---
 
+- [mys](doma/referent_mouse.json)
+
+---
+
 - [uhly topologie](doma/angles/typology.json)
 - [uhly v1](doma/angles/typology.json)
 
 ---
 
-### ilustrace
-[ilustrace](doma/ilustrace/README.md)
+- [experimenty](doma/experiments/experiment01)
+- [instrukce](doma/instructions/inst01.json)
 
 ---
+
+### ilustrace
+[ilustrace](doma/ilustrace/README.md)
 
 - [MYŠ](doma/ilustrace/mys.jpg)
 - [KOCOUR](doma/ilustrace/kocour.jpg)
@@ -57,3 +64,4 @@
 - [KOHOUT](doma/ilustrace/kohout.jpg)
 
 ### narativ
+[kriva pohadka](doma/narrative/README.md)
