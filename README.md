@@ -13,7 +13,10 @@
 
 - [uhly topologie](doma/angles/typology.json)
 - [uhly v1](doma/angles/typology.json)
+  konkretni uhly ktere pouzivam
 - [gen_angles](doma/angles/gen_angles.json)
+- generativni very
+- [dataset50](doma/angles/dataset50.json) ukazkovy multimedialni dataset
 ---
 
 - [experimenty](doma/experiments/experiment01)
@@ -83,6 +86,6 @@
 
 ---
 
-- [arc02](doma/arc/)
+- [arc02](doma/testy/arc02/)
 
 ---
