@@ -13,7 +13,7 @@
 
 - [uhly topologie](doma/angles/typology.json)
 - [uhly v1](doma/angles/typology.json)
-
+- [gen_angles](doma/angles/gen_angles.json)
 ---
 
 - [experimenty](doma/experiments/experiment01)
