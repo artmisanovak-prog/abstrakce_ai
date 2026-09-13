@@ -1,8 +1,7 @@
 narrative: 
-KŘIVÁ POHÁDKA - ROVNÉ SVĚDECTVÍ
+# KŘIVÁ POHÁDKA - ROVNÉ SVĚDECTVÍ
 
-
-ROVNÉ SVĚDECTVÍ
+## ROVNÉ SVĚDECTVÍ
 
 Zapsáno rukou, která nechtěla nic vysvětlit.
 
@@ -23,7 +22,7 @@ a možná se pořád dějí.
 Jen je nelze vidět z běžného úhlu.
 
 
-KŘIVÁ POHÁDKA 
+## KŘIVÁ POHÁDKA 
 
 Taková malá, divná, křivá 
 
@@ -56,9 +55,9 @@ Karta: images/mys.jpg
 Text: chceš myš ??
 
 
-O MYŠI 
+### O MYŠI 
 
-a o tom, co se stane, když si jí NEvšimneš
+** a o tom, co se stane, když si jí NEvšimneš **
 
 
 Kdysi – zároveň ne tak docela dávno.
