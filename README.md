@@ -3,6 +3,12 @@
 
 ---
 
+## Laboratoř abstrakce
+
+[Otevřít interaktivní laboratoř](laborator/index.html) · tři operační experimenty odvozené z narativů: HYDROFON (ryba), Perspektivní překladač (panda a vlk) a Kontextový detektor (dráček).
+
+---
+
 - [python](doma/python/test01.json)
 
 ---
